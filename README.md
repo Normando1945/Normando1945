@@ -32,5 +32,3 @@ I am Ecuadorian and have earned a Master's degree in Structural Engineering with
         </p>
     </div>
 </div>
-
-
