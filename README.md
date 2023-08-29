@@ -18,17 +18,11 @@ I am Ecuadorian and have earned a Master's degree in Structural Engineering with
 
 
 ### Stats
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-    <div>
-        <h3 align="center">Top langs:</h3>
-        <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Normando1945&langs_count=10&theme=tokyo&layout=compact" alt="Normando1945 :: Top Langs" />
-        </p>
-    </div>
-    <div>
-        <h3 align="center">Profile stats:</h3>
-        <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=Normando1945&show_icons=true&theme=light" alt="Carlos Celi :: Profile Stats" />
-        </p>
-    </div>
-</div>
+<h3 align="center">Top langs:</h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Normando1945&langs_count=10&theme=tokyo&layout=compact" alt="Normando1945 :: Top Langs" />
+</p>
+<h3 align="center">Profile stats:</h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Normando1945&show_icons=true&theme=light" alt="Carlos Celi :: Profile Stats" />
+</p>
