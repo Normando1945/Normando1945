@@ -1,11 +1,4 @@
-<div align="center">
-    <img src="https://github.com/Normando1945/Normando1945.github.io/assets/62081230/1ac0bf1d-67cd-43f6-87b0-141417a606db">
-</div>
-
-
 # **Hi, I'm Carlos Celi**
-
-
 <p><em>College Professor at <a href="https://www.puce.edu.ec/">Pontificia Universidad Católica del Ecuador | PUCE - Quito </a></br>Senior Structural Engineer at <a href="http://www.torrefuerte.ec/">TORREFUERTE</a> 
 </em></p>
 
@@ -32,21 +25,3 @@ I am Ecuadorian and have earned a Master's degree in Structural Engineering with
 <h3 align="center">Profile stats :</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Normando1945&show_icons=true&theme=ligth" alt="Carlos Celi :: Profile Stats" /></p>
-
-
-
-
-<!--
-**Normando1945/Normando1945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Structural Analisys
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
