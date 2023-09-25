@@ -9,7 +9,7 @@ I am Ecuadorian, I have a Master's degree in Structural Engineering with a SUMMA
 
 ### **You can find me on**
 
-[sssss](caceli.net)
+[sssss](https://fragrant-knight-4af.notion.site/My-Personal-Page-for-Academic-Use-5c5f007b3f3f4c76a604960d9dbffca7)
 
 ![Web Page](https://img.shields.io/badge/Web%20Page-caceli.net-blue)
 [![GitHub Carlos Celi](https://img.shields.io/github/followers/Normando1945?label=follow&style=social)](https://github.com/Normando1945)
