@@ -1,12 +1,12 @@
-# **Hi, I'm Carlos Celi**
+# :wave: **Hi, I'm Carlos Celi**
 <p><em>College Professor at <a href="https://www.puce.edu.ec/">Pontificia Universidad Católica del Ecuador | PUCE - Quito </a></br>Senior Structural Engineer at <a href="http://www.torrefuerte.ec/">TORREFUERTE</a> 
 </em></p>
 
-### Brief Summary
+### :notebook_with_decorative_cover: Brief Summary
 I am Ecuadorian, I have a Master's degree in Structural Engineering with a **SUMMA CUM LAUDE** distinction from the National Polytechnic School. With over 15 years of experience, I have notably provided structural consultancy for buildings surpassing 140 meters in height. I am currently affiliated with the Department of Civil Engineering at the Pontifical Catholic University of Ecuador. My primary research domain is nonlinear mathematical modeling, leading to several international scientific publications. My ongoing projects include: 'The Application of Artificial Neural Networks (ANN) in Estimating Local Fragility in Zero-Length Elements', 'Generating Synthetic Accelerograms based on Chaos Theory and Wavelets', and my participation in the 'Training And Communication for Earthquake Risk Assessment - GEM' project.
 
 
-### **You can find me on**
+### :earth_americas: **You can find me on**
 
 [![Web Page](https://img.shields.io/badge/Web%20Page-caceli.net-blue)](http:caceli.net)
 [![GitHub Carlos Celi](https://img.shields.io/github/followers/Normando1945?label=follow&style=social)](https://github.com/Normando1945)
@@ -14,12 +14,12 @@ I am Ecuadorian, I have a Master's degree in Structural Engineering with a **SUM
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=social&logo=google)](https://scholar.google.com.ec/citations?hl=es&user=yR4Gz7kAAAAJ)
 <a href="Carlos Celi:normando1945@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-normando1945@gmail.com-blue?style=flat&logo=gmail"></a>
 
-### Languages I know
+### :desktop_computer: **Languages I know**
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-MATLAB-black?style=flat&logo=matlab&logoColor=white">
 
 
 
-### Stats
+### :dark_sunglasses: **Stats**
 <h3 align="center">Top langs:</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Normando1945&langs_count=10&theme=tokyo&layout=compact" alt="Normando1945 :: Top Langs" />
