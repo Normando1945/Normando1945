@@ -17,12 +17,15 @@ I am Ecuadorian, I have a Master's degree in Structural Engineering with a **SUM
 <a href="Carlos Celi:normando1945@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-normando1945@gmail.com-blue?style=flat&logo=gmail"></a>
 
 
-## :earth_americas: **List of Repositories**
+## :scroll: **List of Repositories**
 
 | #  | Function Name | Description | Field of Application |  Author | 
 | -- | --------------------- | ----------- | ----------- | ----------- |
-| 1  | [fun_SHM_animation](https://github.com/Normando1945/Simple-Python-Functions-Collection/tree/main/fun_SHM_animation) | A function to create animations for Simple Harmonic Motion (SHM). | Structural Dynamics   | [MSc. Ing. Carlos Celi](https://fragrant-knight-4af.notion.site/My-Personal-Page-for-Academic-Use-5c5f007b3f3f4c76a604960d9dbffca7) |
-| 2  | [fun_BNewmark](https://github.com/Normando1945/Simple-Python-Functions-Collection/tree/main/fun_BNewmark) | A function that calculates the displacement, velocity, and acceleration response of a structure subjected to ground motion using the Newmark method. | Structural Dynamics | [MSc. Ing. Carlos Celi](https://fragrant-knight-4af.notion.site/My-Personal-Page-for-Academic-Use-5c5f007b3f3f4c76a604960d9dbffca7) |
+| 1  | [Normando1945.github.io](https://github.com/Normando1945/Normando1945.github.io) | This repository hosts the web page for the first chapter of the book “Structural Engineering: Dynamics, Seismic Solution, and AI Integration”. | Structural Engineering | [MSc. Ing. Carlos Celi](https://fragrant-knight-4af.notion.site/My-Personal-Page-for-Academic-Use-5c5f007b3f3f4c76a604960d9dbffca7) |
+| 2  | [Seismic-Time-Response-of-SDOF](https://github.com/Normando1945/Seismic-Time-Response-of-SDOF) | This repository provides a straightforward software application designed to compute the time response of underdamped single-degree-of-freedom (SDOF) systems using the discrete Beta Newmark method. | Structural Dynamics | [MSc. Ing. Carlos Celi](https://fragrant-knight-4af.notion.site/My-Personal-Page-for-Academic-Use-5c5f007b3f3f4c76a604960d9dbffca7) |
+| 3  | [Simple-Python-Functions-Collection](https://github.com/Normando1945/Simple-Python-Functions-Collection) | This repository, the Simple Python Functions Collection, serves as a practical extension and a compilation of complementary resources for my upcoming book and other disciplines in the field of Structural Engineering. | Structural Engineering | [MSc. Ing. Carlos Celi](https://fragrant-knight-4af.notion.site/My-Personal-Page-for-Academic-Use-5c5f007b3f3f4c76a604960d9dbffca7) |
+
+
 
 
 
