@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="![banner](https://github.com/Normando1945/Normando1945/assets/62081230/6b8eb917-a3cc-4542-b6c7-1dae29567c53)" width="300" style="box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.6); margin-right: 20px;">
+    <img src="https://github.com/Normando1945/Normando1945/assets/62081230/6b8eb917-a3cc-4542-b6c7-1dae29567c53" width="1000" style="box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.6); margin-right: 20px;">
 </div>
 
 
