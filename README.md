@@ -42,6 +42,7 @@ I am Ecuadorian, I have a Master's degree in Structural Engineering with a **SUM
 
 ## :dark_sunglasses: **Stats**
 
+
 <h3 align="center">Top langs:</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Normando1945&langs_count=10&theme=tokyo&layout=compact" alt="Normando1945 :: Top Langs" />
