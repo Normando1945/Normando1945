@@ -9,6 +9,11 @@
 <p><em>College Professor at <a href="https://www.puce.edu.ec/">Pontificia Universidad Católica del Ecuador | PUCE - Quito </a></br>Senior Structural Engineer at <a href="http://www.torrefuerte.ec/">TORREFUERTE</a> 
 </em></p>
 
+
+* If you found this free application useful and enjoyable, please consider supporting us with a donation. Your contribution helps us continue developing and maintaining free software.
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'H2H111V2R3');kofiwidget2.draw();</script> 
+
+
 ## :notebook_with_decorative_cover: Brief Summary
 
 I am Ecuadorian, I have a Master's degree in Structural Engineering with a **SUMMA CUM LAUDE** distinction from the National Polytechnic School. With over 15 years of experience, I have notably provided structural consultancy for buildings surpassing 140 meters in height. I am currently affiliated with the Department of Civil Engineering at the Pontifical Catholic University of Ecuador. My primary research domain is nonlinear mathematical modeling, leading to several international scientific publications. My ongoing projects include: 'The Application of Artificial Neural Networks (ANN) in Estimating Local Fragility in Zero-Length Elements', 'Generating Synthetic Accelerograms based on Chaos Theory and Wavelets', and my participation in the 'Training And Communication for Earthquake Risk Assessment - GEM' project.
