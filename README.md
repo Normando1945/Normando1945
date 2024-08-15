@@ -10,7 +10,7 @@
 </em></p>
 
 
-* If you found this free application useful and enjoyable, please consider supporting us with a donation. Your contribution helps us continue developing and maintaining free software.
+* If you found this free repository useful and enjoyable, please consider supporting us with a donation. Your contribution helps us continue developing and maintaining free software.
 
 <a href='https://ko-fi.com/H2H111V2R3' target='_blank'>
     <img src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' alt='Support Me on Ko-fi' style='width: 15%; height: auto; border:0;'>
