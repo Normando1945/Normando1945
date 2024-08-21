@@ -31,14 +31,24 @@ I am Ecuadorian, I have a Master's degree in Structural Engineering with a **SUM
 <a href="Carlos Celi:normando1945@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-normando1945@gmail.com-blue?style=flat&logo=gmail"></a>
 
 
-## :scroll: **List of Main Repositories**
+## :scroll: Main Repositories for Scripts & Functions
 
 | #  | Repositories | Description | Field of Application |  Author | 
 | -- | --------------------- | ----------- | ----------- | ----------- |
 | 1  | **[Normando1945.github.io](https://github.com/Normando1945/Normando1945.github.io)** | This repository hosts the web page for the first chapter of the book “Structural Engineering: Dynamics, Seismic Solution, and AI Integration”. | Structural Engineering | [MSc. Ing. Carlos Celi](https://fragrant-knight-4af.notion.site/My-Personal-Page-for-Academic-Use-5c5f007b3f3f4c76a604960d9dbffca7) |
 | 2  | **[Simple-Python-Functions-Collection](https://github.com/Normando1945/Simple-Python-Functions-Collection)** | This repository, titled 'Simple Python Functions Collection', serves as a practical extension and a compilation of complementary resources for my upcoming book and other disciplines in the field of Structural Engineering. | Structural Engineering | [MSc. Ing. Carlos Celi](https://fragrant-knight-4af.notion.site/My-Personal-Page-for-Academic-Use-5c5f007b3f3f4c76a604960d9dbffca7) |
-| 3  | **[Seismic-Time-Response-of-SDOF](https://github.com/Normando1945/Seismic-Time-Response-of-SDOF)** | This repository provides a straightforward software application designed to compute the time response of underdamped single-degree-of-freedom (SDOF) systems using the discrete Beta Newmark method. | Structural Dynamics | [MSc. Ing. Carlos Celi](https://fragrant-knight-4af.notion.site/My-Personal-Page-for-Academic-Use-5c5f007b3f3f4c76a604960d9dbffca7) |
-| 4  | **[Swift Guide to Utilizing Google Colab](https://github.com/Normando1945/Simple-Example-for-interactive-Education)** | The repository aims to utilize tools like Google Colab, Python, and P5js for engineering education, enhancing interactivity in mathematical concept learning. | Interactive Education | [MSc. Ing. Carlos Celi](https://fragrant-knight-4af.notion.site/My-Personal-Page-for-Academic-Use-5c5f007b3f3f4c76a604960d9dbffca7) |
+| 3  | **[Swift Guide to Utilizing Google Colab](https://github.com/Normando1945/Simple-Example-for-interactive-Education)** | The repository aims to utilize tools like Google Colab, Python, and P5js for engineering education, enhancing interactivity in mathematical concept learning. | Interactive Education | [MSc. Ing. Carlos Celi](https://fragrant-knight-4af.notion.site/My-Personal-Page-for-Academic-Use-5c5f007b3f3f4c76a604960d9dbffca7) |
+
+
+
+## :computer: Repository for Free Web Applications and Software
+
+| #  | Repositories | Description | Field of Application |  Author | 
+| -- | --------------------- | ----------- | ----------- | ----------- |
+| 1  | **[Seismic-Time-Response-of-SDOF](https://github.com/Normando1945/Seismic-Time-Response-of-SDOF)** | This repository provides a straightforward software application designed to compute the time response of underdamped single-degree-of-freedom (SDOF) systems using the discrete Beta Newmark method. | Structural Dynamics | [MSc. Ing. Carlos Celi](https://fragrant-knight-4af.notion.site/My-Personal-Page-for-Academic-Use-5c5f007b3f3f4c76a604960d9dbffca7) |
+
+
+
 
 
 
