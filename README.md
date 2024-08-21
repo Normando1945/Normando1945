@@ -46,6 +46,8 @@ I am Ecuadorian, I have a Master's degree in Structural Engineering with a **SUM
 | #  | Repositories | Description | Field of Application |  Author | 
 | -- | --------------------- | ----------- | ----------- | ----------- |
 | 1  | **[Seismic-Time-Response-of-SDOF](https://github.com/Normando1945/Seismic-Time-Response-of-SDOF)** | This repository provides a straightforward software application designed to compute the time response of underdamped single-degree-of-freedom (SDOF) systems using the discrete Beta Newmark method. | Structural Dynamics | [MSc. Ing. Carlos Celi](https://fragrant-knight-4af.notion.site/My-Personal-Page-for-Academic-Use-5c5f007b3f3f4c76a604960d9dbffca7) |
+| 2  | **[Seismic Disaggregation Tool for Ecuador 2024 (SDTE - 2024)](xxxxxx)** | This repository contains a comprehensive application for performing disaggregation calculations for fault source areas in Ecuador. The tool uses site-specific coordinates and logic tree configurations to determine seismic hazard contributions, aiding in the design of more resilient structures. | Structural Dynamics | [MSc. Ing. Carlos Celi](https://fragrant-knight-4af.notion.site/My-Personal-Page-for-Academic-Use-5c5f007b3f3f4c76a604960d9dbffca7) |
+
 
 
 
