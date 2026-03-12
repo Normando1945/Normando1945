@@ -31,6 +31,11 @@ I am Ecuadorian, I have a Master's degree in Structural Engineering with a **SUM
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=social&logo=youtube)](https://www.youtube.com/@CCeli1945)
 <a href="Carlos Celi:normando1945@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-normando1945@gmail.com-blue?style=flat&logo=gmail"></a>
 
+## :mortar_board: Main Educational Repositories
+
+| #  | Repositories | Description | Field of Application | Author |
+| -- | --------------------- | ----------- | ----------- | ----------- |
+| 1  | **[Repo_Maxtrix_Analisys](https://github.com/Normando1945/Repo_Maxtrix_Analisys)** | This repository has been created to support the teaching and learning process of the Matrix Structural Analysis course. It progressively includes theoretical notes, Python codes, numerical examples, and class-based implementations, starting from the fundamental concepts of matrix structural analysis and advancing toward more refined formulations for 2D frame elements. | Structural Engineering Education | [MSc. Ing. Carlos Celi](https://fragrant-knight-4af.notion.site/My-Personal-Page-for-Academic-Use-5c5f007b3f3f4c76a604960d9dbffca7) |
 
 
 ## :scroll: Main Repositories for Scripts & Functions
