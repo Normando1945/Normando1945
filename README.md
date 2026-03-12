@@ -71,10 +71,10 @@ I am Ecuadorian, I have a Master's degree in Structural Engineering with a **SUM
 
 <h3 align="center">Top Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Normando1945&langs_count=10&theme=tokyonight&layout=compact" alt="Normando1945 Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Normando1945&langs_count=10&theme=transparent&layout=compact" alt="Normando1945 Top Languages" />
 </p>
 
 <h3 align="center">Profile Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Normando1945&show_icons=true&theme=tokyonight" alt="Carlos Celi Profile Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Normando1945&show_icons=true&theme=transparent" alt="Carlos Celi Profile Stats" />
 </p>
