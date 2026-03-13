@@ -31,6 +31,14 @@ I am Ecuadorian, I have a Master's degree in Structural Engineering with a **SUM
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=social&logo=youtube)](https://www.youtube.com/@CCeli1945)
 <a href="Carlos Celi:normando1945@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-normando1945@gmail.com-blue?style=flat&logo=gmail"></a>
 
+## :microscope: Main Research Repositories
+
+| #  | Repositories | Description | Field of Application | Author |
+| -- | --------------------- | ----------- | ----------- | ----------- |
+| 1  | **[2D-Wave-Propagation-FDM-PSM](https://github.com/Normando1945/2D-Wave-Propagation-FDM-PSM)** | This repository presents a Python package for 2D wave propagation simulations using the Finite Difference Method (FDM) and the Pseudo-Spectral Method (PSM). It includes numerical examples, heterogeneous velocity models, wavefield visualization, receiver seismograms, and video generation for computational wave propagation studies. | Computational Seismology | [MSc. Ing. Carlos Celi](https://normando1945.wixsite.com/cceli) |
+
+
+
 ## :mortar_board: Main Educational Repositories
 
 | #  | Repositories | Description | Field of Application | Author |
