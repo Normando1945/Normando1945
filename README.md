@@ -44,7 +44,7 @@ I am Ecuadorian, I have a Master's degree in Structural Engineering with a **SUM
 | #  | Repositories | Description | Field of Application | Author |
 | -- | --------------------- | ----------- | ----------- | ----------- |
 | 1  | **[Repo_Maxtrix_Analisys](https://github.com/Normando1945/Repo_Maxtrix_Analisys)** | This repository has been created to support the teaching and learning process of the Matrix Structural Analysis course. It progressively includes theoretical notes, Python codes, numerical examples, and class-based implementations, starting from the fundamental concepts of matrix structural analysis and advancing toward more refined formulations for 2D frame elements. | Structural Engineering Education | [MSc. Ing. Carlos Celi](https://normando1945.wixsite.com/cceli) |
-
+| 2  | **[Repo_Seismic_Desing](https://github.com/Normando1945/Repo_Seismic_Desing)** | This repository has been created to support the teaching and learning process of the Seismic-Resistant Design course. It progressively includes theoretical notes, seismic design criteria, numerical examples, and Python-based educational tools, starting from the fundamental concepts of earthquake engineering and advancing toward practical applications in structural seismic design. | Structural Engineering Education | [MSc. Ing. Carlos Celi](https://normando1945.wixsite.com/cceli) |
 
 ## :scroll: Main Repositories for Scripts & Functions
 
