@@ -74,21 +74,13 @@ I am Ecuadorian, I have a Master's degree in Structural Engineering with a **SUM
 
 
 
-## :desktop_computer: **Languages I know**
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-MATLAB-black?style=flat&logo=mathworks&logoColor=white">
+  <img src="https://github-readme-stats.vercel.app/api?username=Normando1945&show_icons=true&theme=transparent" alt="Carlos Celi GitHub Stats" />
 </p>
 
-## :dark_sunglasses: **Stats**
-
-<h3 align="center">Top Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Normando1945&langs_count=10&theme=transparent&layout=compact" alt="Normando1945 Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Normando1945&langs_count=8&theme=transparent&layout=compact" alt="Carlos Celi Top Languages" />
 </p>
 
-<h3 align="center">Profile Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Normando1945&show_icons=true&theme=transparent" alt="Carlos Celi Profile Stats" />
-</p>
