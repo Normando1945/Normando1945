@@ -16,11 +16,13 @@
     <img src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' alt='Support Me on Ko-fi' style='width: 15%; height: auto; border:0;'>
 </a>
 
+---
 
 ## :notebook_with_decorative_cover: Brief Summary
 
 I am Ecuadorian, I have a Master's degree in Structural Engineering with a **SUMMA CUM LAUDE** distinction from the National Polytechnic School. With over 15 years of experience, I have notably provided structural consultancy for buildings surpassing 140 meters in height. I am currently affiliated with the Department of Civil Engineering at the Pontifical Catholic University of Ecuador. My primary research domain is nonlinear mathematical modeling, leading to several international scientific publications. My ongoing projects include: 'The Application of Artificial Neural Networks (ANN) in Estimating Local Fragility in Zero-Length Elements', 'Generating Synthetic Accelerograms based on Chaos Theory and Wavelets', and my participation in the 'Training And Communication for Earthquake Risk Assessment - GEM' project.
 
+---
 
 ## 🎯 Current Focus
 
@@ -29,7 +31,7 @@ I am Ecuadorian, I have a Master's degree in Structural Engineering with a **SUM
 - Building research-oriented computational workflows
 - Preparing advanced structural dynamics content for students and professionals
 
-
+---
 
 ## :earth_americas: **You can find me on**
 
@@ -40,6 +42,8 @@ I am Ecuadorian, I have a Master's degree in Structural Engineering with a **SUM
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=social&logo=youtube)](https://www.youtube.com/@CCeli1945)
 <a href="Carlos Celi:normando1945@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-normando1945@gmail.com-blue?style=flat&logo=gmail"></a>
 
+---
+
 ## :microscope: Main Research Repositories
 
 | #  | Repositories | Description | Field of Application | Author |
@@ -47,6 +51,7 @@ I am Ecuadorian, I have a Master's degree in Structural Engineering with a **SUM
 | 1  | **[2D-Wave-Propagation-FDM-PSM](https://github.com/Normando1945/2D-Wave-Propagation-FDM-PSM)** | This repository presents a Python package for 2D wave propagation simulations using the Finite Difference Method (FDM) and the Pseudo-Spectral Method (PSM). It includes numerical examples, heterogeneous velocity models, wavefield visualization, receiver seismograms, and video generation for computational wave propagation studies. | Computational Seismology | [MSc. Ing. Carlos Celi](https://normando1945.wixsite.com/cceli) |
 
 
+---
 
 ## :mortar_board: Main Educational Repositories
 
@@ -55,6 +60,8 @@ I am Ecuadorian, I have a Master's degree in Structural Engineering with a **SUM
 | 1  | **[Repo_Maxtrix_Analisys](https://github.com/Normando1945/Repo_Maxtrix_Analisys)** | This repository has been created to support the teaching process of the Matrix Structural Analysis course. It progressively includes theoretical notes, Python codes, numerical examples, and class-based implementations, starting from the fundamental concepts of matrix structural analysis and advancing toward more refined formulations for 2D frame elements. | Structural Engineering Education | [MSc. Ing. Carlos Celi](https://normando1945.wixsite.com/cceli) |
 | 2  | **[Repo_Seismic_Desing](https://github.com/Normando1945/Repo_Seismic_Desing)** | This repository has been created to support the teaching process of the Seismic-Resistant Design course. It progressively includes theoretical notes, seismic design criteria, numerical examples, and Python-based educational tools, starting from the fundamental concepts of earthquake engineering and advancing toward practical applications in structural seismic design. | Structural Engineering Education | [MSc. Ing. Carlos Celi](https://normando1945.wixsite.com/cceli) |
 | 3  | **[Repo_Computational_Methods](https://github.com/Normando1945/Repo_Computational_Methods)** | This repository has been created to support the teaching process of the Computational Methods course. It progressively includes numerical examples, Python-based educational tools, notebooks, and post-processing routines for structural engineering applications, particularly as a complement for processing and interpreting results obtained from commercial software such as ETABS and SAP2000. | Structural Engineering Education | [MSc. Ing. Carlos Celi](https://normando1945.wixsite.com/cceli) |
+
+---
 
 ## :scroll: Main Repositories for Scripts & Functions
 
@@ -65,6 +72,7 @@ I am Ecuadorian, I have a Master's degree in Structural Engineering with a **SUM
 | 3  | **[Swift Guide to Utilizing Google Colab](https://github.com/Normando1945/Simple-Example-for-interactive-Education)** | The repository aims to utilize tools like Google Colab, Python, and P5js for engineering education, enhancing interactivity in mathematical concept learning. | Interactive Education | [MSc. Ing. Carlos Celi](https://normando1945.wixsite.com/cceli) |
 
 
+---
 
 ## :computer: Repository for Free Web Applications and Software
 
@@ -77,11 +85,15 @@ I am Ecuadorian, I have a Master's degree in Structural Engineering with a **SUM
 | 5  | **[Dynamic Seism](https://github.com/MiguelRivera94/dynamic_seism)** | This repository provides interactive software for calculating the dynamic magnification factor of single-degree-of-freedom (SDOF) systems in both the elastic and inelastic ranges, based on the predominant frequency content of seismic records. | Structural Engineering | [Miguel Rivera](https://github.com/MiguelRivera94), Daniel Escorza, [MSc. Ing. Carlos Celi (Tutor)](https://normando1945.wixsite.com/cceli) |
 
 
+---
+
+## 🤝 Collaboration and Support
+
+I actively develop free educational and research-oriented repositories in structural engineering, computational mechanics, and scientific programming.  
+If you would like to support this work, collaborate on a project, or help expand these tools for students and professionals, you are very welcome.
 
 
-
-
-
+---
 
 ## 📊 GitHub Stats
 
