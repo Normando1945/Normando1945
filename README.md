@@ -22,6 +22,15 @@
 I am Ecuadorian, I have a Master's degree in Structural Engineering with a **SUMMA CUM LAUDE** distinction from the National Polytechnic School. With over 15 years of experience, I have notably provided structural consultancy for buildings surpassing 140 meters in height. I am currently affiliated with the Department of Civil Engineering at the Pontifical Catholic University of Ecuador. My primary research domain is nonlinear mathematical modeling, leading to several international scientific publications. My ongoing projects include: 'The Application of Artificial Neural Networks (ANN) in Estimating Local Fragility in Zero-Length Elements', 'Generating Synthetic Accelerograms based on Chaos Theory and Wavelets', and my participation in the 'Training And Communication for Earthquake Risk Assessment - GEM' project.
 
 
+## 🎯 Current Focus
+
+- Developing open educational repositories for structural engineering
+- Expanding numerical simulation tools in Python
+- Building research-oriented computational workflows
+- Preparing advanced structural dynamics content for students and professionals
+
+
+
 ## :earth_americas: **You can find me on**
 
 [![Web Page](https://img.shields.io/badge/Web%20Page-caceli.net-blue)](https://normando1945.wixsite.com/cceli)
