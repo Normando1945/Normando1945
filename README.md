@@ -49,6 +49,7 @@ I am Ecuadorian, I have a Master's degree in Structural Engineering with a **SUM
 | #  | Repositories | Description | Field of Application | Author |
 | -- | --------------------- | ----------- | ----------- | ----------- |
 | 1  | **[2D-Wave-Propagation-FDM-PSM](https://github.com/Normando1945/2D-Wave-Propagation-FDM-PSM)** | This repository presents a Python package for 2D wave propagation simulations using the Finite Difference Method (FDM) and the Pseudo-Spectral Method (PSM). It includes numerical examples, heterogeneous velocity models, wavefield visualization, receiver seismograms, and video generation for computational wave propagation studies. | Computational Seismology | [MSc. Ing. Carlos Celi](https://normando1945.wixsite.com/cceli) |
+| 2 | **[Neural-Surrogate-for-Surface-Seismogram-](https://github.com/Normando1945/Neural-Surrogate-for-Surface-Seismogram-)** | This repository implements a GPU-accelerated workflow for emulating surface seismograms from heterogeneous 2D velocity models. It combines finite-difference acoustic-wave simulations, HDF5 data generation, and a receiver-query neural surrogate based on a CNN with Fourier-encoded receiver coordinates. | Computational Seismology and Scientific Machine Learning | [MSc. Ing. Carlos Celi](https://normando1945.wixsite.com/cceli) |
 
 
 ---
